@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Rafael de Padua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá 👋, Meu nome é Rafael de Padua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 
@@ -10,10 +10,10 @@
 
 - :school: Sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) na [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :trophy: Participei do 2023 ICPC South America/Brazil First Phase.
-- :computer: I am a competitive programmer at `Codewars`, `beecrowd`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
+- :student: No momento, estou me dedicando ao estudo de `Ciência da Computação` e `Engenharia de Software`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: Atualmente estou aberto a novas `oportunidades de trabalho`.
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles

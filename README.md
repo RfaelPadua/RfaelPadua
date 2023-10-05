@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -12,11 +12,11 @@
 - :trophy: Participei do 2023 ICPC South America/Brazil First Phase.
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
 - :student: No momento, estou me dedicando ao estudo de `Ciência da Computação` e `Engenharia de Software`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Sempre em busca de `aprendizado`.
 - :thinking: Atualmente estou aberto a novas `oportunidades de trabalho`.
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Meus Perfis de Programação Competitiva
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -146,30 +146,21 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
 
 <br> 
 
 ---
 
+<br>
+
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?quote=I%20was%20not%20born%20with%20knowledge%20but,%20being%20fond%20of%20antiquity,%20I%20am%20quick%20to%20seek%20it.&author=Confucius&type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-</br>
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RfaelPadua&repo=RfaelPadua&theme=radical)](https://github.com/RfaelPadua/RfaelPadua)
-</div>
+
+  
+
+
+
+
+

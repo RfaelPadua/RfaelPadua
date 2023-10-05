@@ -9,8 +9,8 @@
 <br>
 
 - :school: Sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) na [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
-- :trophy: 2x `ACPC` Finalist.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :trophy: Participei do 2023 ICPC South America/Brazil First Phase.
+- :computer: I am a competitive programmer at `Codewars`, `beecrowd`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.

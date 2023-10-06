@@ -28,7 +28,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Vamos nos conectar
 <p align="center">
 	<a href="https://github.com/RfaelPadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" width="48" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/rfaelpadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/rfaelpadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/RfaelPadua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/raf_padua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="48" alt="Instagram"/></a>
 </p>
@@ -71,22 +71,22 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40"></a>
     &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" width="40" /></a>
+    <a href="https://www.latex-project.org/"><img alt="LaTex" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" width="40" /></a>
     &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/></a>
+    <a href="https://www.mysql.com/"><img alt="MySQLsrc=" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" /></a>
+    <a href="https://visualstudio.microsoft.com/pt-br/#vs-section"><img alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" /></a>
 </p>
 
 

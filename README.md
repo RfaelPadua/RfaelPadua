@@ -27,7 +27,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Vamos nos conectar
 <p align="center">
-	<a href="https://github.com/RfaelPadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" width="48" alt="GitHub"/></a>
+	<a href="https://github.com/RfaelPadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rfaelpadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/RfaelPadua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/raf_padua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="48" alt="Instagram"/></a>

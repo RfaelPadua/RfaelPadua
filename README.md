@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/pt/profile/862308"><img src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" width="60" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/Rfae/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://www.codewars.com/users/Rfael-Padua"><img src="https://docs.codewars.com/logo.svg" alt="AtCoder" width = "55"/></a>
 	<a href="https://icpc.global/ICPCID/49KXBJR048TN"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 </p>
